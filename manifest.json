@@ -13,8 +13,18 @@
       "type": "image/png"
     },
     {
-      "src": "peach_512.png",
+      "src": "peach_192.png",
       "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "peach_192.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "peach_192.png",
+      "sizes": "167x167",
       "type": "image/png"
     }
   ],
